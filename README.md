@@ -8,4 +8,4 @@
 
 ## Description
 landing page for real estate company
-- [DEMO LINK]
+- [DEMO LINK](https://dmytro-abram.github.io/lp-miami/)
